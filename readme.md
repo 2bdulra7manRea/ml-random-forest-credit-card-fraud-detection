@@ -13,8 +13,8 @@ The dataset used for training is obtained from the "tanzuhuggingface/creditcardf
 1. Clone the repository:
 
    ```bash
-   git clone <repository_url>
-   cd <repository_directory>
+   git clone https://github.com/2bdulra7manRea/ml-random-forest-credit-card-fraud-detection.git
+   cd ml-random-forest-credit-card-fraud-detection
    ```
 
 2. Install the required dependencies:
