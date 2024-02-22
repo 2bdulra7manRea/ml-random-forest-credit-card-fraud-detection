@@ -4,6 +4,14 @@
 
 This repository contains code for training a Random Forest model on the credit card fraud training dataset. The goal is to create a classification model that can identify whether a credit card transaction is fraudulent or not.
 
+
+## Technologies
+
+- Python
+- Sklearn
+- Numpy
+- seaborn
+
 ## Dataset
 
 The dataset used for training is obtained from the "tanzuhuggingface/creditcardfraudtraining" dataset. It includes features such as time_elapsed, long, lat, and amt, and a binary target variable 'is_fraud'.
